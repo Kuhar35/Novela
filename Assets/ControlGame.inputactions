@@ -1,0 +1,45 @@
+{
+    "name": "ControlGame",
+    "maps": [
+        {
+            "name": "GamePlayer",
+            "id": "ddde6033-46d3-4832-b680-e52d6c93216e",
+            "actions": [
+                {
+                    "name": "Control",
+                    "type": "Button",
+                    "id": "6430495f-7ae6-4ff0-824a-bacd7d98834b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "75b17f66-ed76-4bd7-9f39-0318777d8899",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Control",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "08ab69ab-9a87-49e1-8ca9-0fe9bf9cb554",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Control",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
